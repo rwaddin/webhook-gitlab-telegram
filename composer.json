@@ -1,0 +1,24 @@
+{
+  "name": "addin/webhook-gitlab-telegram",
+  "type": "library",
+  "description": "Sent webhook event push new commit & create / close issue",
+  "keywords": ["gitlab","webhook","telegram","bot"],
+  "homepage": "https://github.com/rwaddin/webhook-gitlab-telegram",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Akhul Syaifudin",
+      "email": "akhul.syaifudin@gmail.com",
+      "homepage": "http://addin.my.id",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-0": {
+      "Monolog": "src"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "object_kind": "push",
+  "event_name": "push",
+  "before": "fb136e38982c2a4fb272b72cb2e3f4039d53da41",
+  "after": "fb136e38982c2a4fb272b72cb2e3f4039d53da41",
+  "ref": "refs/heads/main",
+  "checkout_sha": "fb136e38982c2a4fb272b72cb2e3f4039d53da41",
+  "message": null,
+  "user_id": 4540394,
+  "user_name": "akhul syaifudin",
+  "user_username": "addindev",
+  "user_email": "[REDACTED]",
+  "user_avatar": "https://gitlab.com/uploads/-/system/user/avatar/4540394/avatar.png",
+  "project_id": 41201509,
+  "project": {
+    "id": 41201509,
+    "name": "Webhook Deployment",
+    "description": null,
+    "web_url": "https://gitlab.com/addindev/webhook-deployment",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "git_http_url": "https://gitlab.com/addindev/webhook-deployment.git",
+    "namespace": "akhul syaifudin",
+    "visibility_level": 20,
+    "path_with_namespace": "addindev/webhook-deployment",
+    "default_branch": "main",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/addindev/webhook-deployment",
+    "url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "ssh_url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "http_url": "https://gitlab.com/addindev/webhook-deployment.git"
+  },
+  "commits": [
+    {
+      "id": "fb136e38982c2a4fb272b72cb2e3f4039d53da41",
+      "message": "Initial commit",
+      "title": "Initial commit",
+      "timestamp": "2022-11-19T16:15:30+00:00",
+      "url": "https://gitlab.com/addindev/webhook-deployment/-/commit/fb136e38982c2a4fb272b72cb2e3f4039d53da41",
+      "author": {
+        "name": "akhul syaifudin",
+        "email": "[REDACTED]"
+      },
+      "added": [
+        "README.md"
+      ],
+      "modified": [
+
+      ],
+      "removed": [
+
+      ]
+    }
+  ],
+  "total_commits_count": 1,
+  "push_options": {
+  },
+  "repository": {
+    "name": "Webhook Deployment",
+    "url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "description": null,
+    "homepage": "https://gitlab.com/addindev/webhook-deployment",
+    "git_http_url": "https://gitlab.com/addindev/webhook-deployment.git",
+    "git_ssh_url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "visibility_level": 20
+  }
+}

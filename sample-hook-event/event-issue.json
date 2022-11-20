@@ -1,0 +1,143 @@
+{
+  "object_kind": "issue",
+  "event_type": "issue",
+  "user": {
+    "id": 4540394,
+    "name": "akhul syaifudin",
+    "username": "addindev",
+    "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/4540394/avatar.png",
+    "email": "[REDACTED]"
+  },
+  "project": {
+    "id": 41201509,
+    "name": "Webhook Deployment",
+    "description": null,
+    "web_url": "https://gitlab.com/addindev/webhook-deployment",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "git_http_url": "https://gitlab.com/addindev/webhook-deployment.git",
+    "namespace": "akhul syaifudin",
+    "visibility_level": 20,
+    "path_with_namespace": "addindev/webhook-deployment",
+    "default_branch": "main",
+    "ci_config_path": "",
+    "homepage": "https://gitlab.com/addindev/webhook-deployment",
+    "url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "ssh_url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "http_url": "https://gitlab.com/addindev/webhook-deployment.git"
+  },
+  "object_attributes": {
+    "author_id": 4540394,
+    "closed_at": null,
+    "confidential": false,
+    "created_at": "2022-11-20 00:20:08 UTC",
+    "description": "ini deskripsi issue",
+    "discussion_locked": null,
+    "due_date": "2022-11-30",
+    "id": 119039857,
+    "iid": 1,
+    "last_edited_at": "2022-11-20 09:22:09 UTC",
+    "last_edited_by_id": 4540394,
+    "milestone_id": null,
+    "moved_to_id": null,
+    "duplicated_to_id": null,
+    "project_id": 41201509,
+    "relative_position": 513,
+    "state_id": 1,
+    "time_estimate": 0,
+    "title": "Testing issue for deploy",
+    "updated_at": "2022-11-20 09:22:36 UTC",
+    "updated_by_id": 4540394,
+    "weight": null,
+    "url": "https://gitlab.com/addindev/webhook-deployment/-/issues/1",
+    "total_time_spent": 0,
+    "time_change": 0,
+    "human_total_time_spent": null,
+    "human_time_change": null,
+    "human_time_estimate": null,
+    "assignee_ids": [
+      4540394
+    ],
+    "assignee_id": 4540394,
+    "labels": [
+      {
+        "id": 27953454,
+        "title": "Issue",
+        "color": "#dc143c",
+        "project_id": 41201509,
+        "created_at": "2022-11-20 09:21:31 UTC",
+        "updated_at": "2022-11-20 09:21:31 UTC",
+        "template": false,
+        "description": null,
+        "type": "ProjectLabel",
+        "group_id": null
+      },
+      {
+        "id": 27953455,
+        "title": "On-Progress",
+        "color": "#eee600",
+        "project_id": 41201509,
+        "created_at": "2022-11-20 09:21:48 UTC",
+        "updated_at": "2022-11-20 09:21:48 UTC",
+        "template": false,
+        "description": null,
+        "type": "ProjectLabel",
+        "group_id": null
+      }
+    ],
+    "state": "opened",
+    "severity": "unknown",
+    "action": "update"
+  },
+  "labels": [
+    {
+      "id": 27953454,
+      "title": "Issue",
+      "color": "#dc143c",
+      "project_id": 41201509,
+      "created_at": "2022-11-20 09:21:31 UTC",
+      "updated_at": "2022-11-20 09:21:31 UTC",
+      "template": false,
+      "description": null,
+      "type": "ProjectLabel",
+      "group_id": null
+    },
+    {
+      "id": 27953455,
+      "title": "On-Progress",
+      "color": "#eee600",
+      "project_id": 41201509,
+      "created_at": "2022-11-20 09:21:48 UTC",
+      "updated_at": "2022-11-20 09:21:48 UTC",
+      "template": false,
+      "description": null,
+      "type": "ProjectLabel",
+      "group_id": null
+    }
+  ],
+  "changes": {
+    "due_date": {
+      "previous": null,
+      "current": "2022-11-30"
+    },
+    "updated_at": {
+      "previous": "2022-11-20 09:22:09 UTC",
+      "current": "2022-11-20 09:22:36 UTC"
+    }
+  },
+  "repository": {
+    "name": "Webhook Deployment",
+    "url": "git@gitlab.com:addindev/webhook-deployment.git",
+    "description": null,
+    "homepage": "https://gitlab.com/addindev/webhook-deployment"
+  },
+  "assignees": [
+    {
+      "id": 4540394,
+      "name": "akhul syaifudin",
+      "username": "addindev",
+      "avatar_url": "https://gitlab.com/uploads/-/system/user/avatar/4540394/avatar.png",
+      "email": "[REDACTED]"
+    }
+  ]
+}
